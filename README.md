@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lukmanul96
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lukman
+- 👀 I’m interested in App Development and Cyber Security
+- 💞️ I’m looking to collaborate on any projects
+- 📫 Reach me at lukmanul.orc@gmail.com
 
 <!---
 lukmanul96/lukmanul96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
